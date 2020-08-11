@@ -1,6 +1,6 @@
 using System;
 
-namespace CadastroPessoa.Models
+namespace CadastroPessoa.Models.ViewModels
 {
     public class ErrorViewModel
     {
